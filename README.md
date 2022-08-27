@@ -1,4 +1,4 @@
-# Assinment-4
+# Assignment-4
 This project was Teammate project.\
 my role on that was design some sections.
 ### used language 
